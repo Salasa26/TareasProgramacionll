@@ -1,0 +1,7 @@
+C:\Users\Adria\OneDrive\Desktop\Prograll\Tareas\Tarea2.2\obj\Debug\Tarea2.2.csproj.AssemblyReference.cache
+C:\Users\Adria\OneDrive\Desktop\Prograll\Tareas\Tarea2.2\obj\Debug\Tarea2.2.csproj.CoreCompileInputs.cache
+C:\Users\Adria\OneDrive\Desktop\Prograll\Tareas\Tarea2.2\bin\Debug\Tarea2.2.exe.config
+C:\Users\Adria\OneDrive\Desktop\Prograll\Tareas\Tarea2.2\bin\Debug\Tarea2.2.exe
+C:\Users\Adria\OneDrive\Desktop\Prograll\Tareas\Tarea2.2\bin\Debug\Tarea2.2.pdb
+C:\Users\Adria\OneDrive\Desktop\Prograll\Tareas\Tarea2.2\obj\Debug\Tarea2.2.exe
+C:\Users\Adria\OneDrive\Desktop\Prograll\Tareas\Tarea2.2\obj\Debug\Tarea2.2.pdb
